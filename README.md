@@ -31,7 +31,7 @@ A powerful Windows application for real-time network traffic monitoring and cont
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/RoseLimiter.git
+git clone https://github.com/MathiasRoseee/RoseLimiter.git
 cd RoseLimiter
 ```
 
